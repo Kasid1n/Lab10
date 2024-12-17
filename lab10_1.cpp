@@ -47,4 +47,4 @@ int main(){
 	//	and so on ... for grade = C, D, F	
 	
 	return 0;
-}
+} 
